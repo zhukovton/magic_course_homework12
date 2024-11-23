@@ -1,0 +1,2 @@
+class BlogManagement:
+    pass
